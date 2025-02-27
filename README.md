@@ -45,4 +45,4 @@ Average Performance rating: women
 
 ## Reference
 
-[Forage - PwC Switzerland Power BI in Data Analytics Virtual Case Experience] (https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg/).
+[Forage - PwC Switzerland Power BI in Data Analytics Virtual Case Experience](https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg/).
